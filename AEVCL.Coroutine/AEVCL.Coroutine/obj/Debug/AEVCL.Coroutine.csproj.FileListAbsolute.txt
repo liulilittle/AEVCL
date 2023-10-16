@@ -1,0 +1,6 @@
+D:\AEVCL\AEVCL.Coroutine\AEVCL.Coroutine\bin\Debug\AEVCL.Coroutine.exe
+D:\AEVCL\AEVCL.Coroutine\AEVCL.Coroutine\bin\Debug\AEVCL.Coroutine.pdb
+D:\AEVCL\AEVCL.Coroutine\AEVCL.Coroutine\obj\Debug\AEVCL.Coroutine.csprojResolveAssemblyReference.cache
+D:\AEVCL\AEVCL.Coroutine\AEVCL.Coroutine\obj\Debug\AEVCL.Coroutine.csproj.CoreCompileInputs.cache
+D:\AEVCL\AEVCL.Coroutine\AEVCL.Coroutine\obj\Debug\AEVCL.Coroutine.exe
+D:\AEVCL\AEVCL.Coroutine\AEVCL.Coroutine\obj\Debug\AEVCL.Coroutine.pdb
